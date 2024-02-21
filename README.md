@@ -13,10 +13,5 @@ Some more description
 ## featuer demo
 2. Open the file and edit the content
 
-<<<<<<< HEAD
-<p>New line</p>
-<p>Insert Image</p>
-=======
 <p>Insert Image</p>
 <p>New line</>
->>>>>>> main
