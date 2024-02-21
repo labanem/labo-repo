@@ -14,3 +14,4 @@ Some more description
 2. Open the file and edit the content
 
 <p>New line</p>
+</p>Insert Image</p>
