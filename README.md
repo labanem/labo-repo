@@ -15,3 +15,5 @@ Some more description
 
 <p>Insert Image</p>
 <p>New line</>
+
+<p>Insert 2nd Image</p>
